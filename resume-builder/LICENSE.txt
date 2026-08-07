@@ -1,0 +1,107 @@
+FULL COMMERCIAL OWNERSHIP LICENSE
+
+Effective Date: March 21, 2026
+
+OWNERSHIP AND RIGHTS GRANT
+
+The user has full, unrestricted commercial ownership and copyright of this entire codebase 
+("Software"). This includes all source code, components, templates, assets, documentation, 
+and any derivative works created from this Software.
+
+GRANT OF RIGHTS
+
+The user is hereby granted:
+
+1. OWNERSHIP: Full ownership of all intellectual property rights in the Software
+2. COMMERCIAL USE: Unrestricted right to use the Software for any commercial purpose
+3. MODIFICATION: Right to modify, adapt, and create derivative works
+4. DISTRIBUTION: Right to distribute, sublicense, and sell the Software
+5. DEPLOYMENT: Right to deploy on any domain, server, or platform
+6. RESALE: Right to resell the Software or services based on the Software
+7. PRIVATE USE: Right to use privately or publicly without restrictions
+8. ATTRIBUTION: No attribution or credit required (optional)
+
+PERMITTED USES
+
+The user may:
+- Use the Software for personal, commercial, or business purposes
+- Host the Software on any domain or server
+- Modify the code to suit specific needs
+- Create derivative products or services
+- Sell products or services based on this Software
+- Distribute the Software to others
+- Use in proprietary applications
+- Integrate with other software or services
+- Monetize through subscriptions, licensing, or direct sales
+
+NO RESTRICTIONS
+
+There are no restrictions on:
+- Number of users or installations
+- Duration of use
+- Geographic location or jurisdiction
+- Industry or business type
+- Revenue or profit from the Software
+- Modifications or customizations
+- Redistribution or resale
+
+DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+IN THE SOFTWARE.
+
+LIMITATIONS OF LIABILITY
+
+The author shall not be liable for:
+- Direct or indirect damages
+- Loss of data or profits
+- Business interruption
+- Any consequential or incidental damages
+- Any claims by third parties
+
+THIRD-PARTY COMPONENTS
+
+The Software includes components from open-source projects. These components retain 
+their original licenses. The user's commercial ownership applies to the original code 
+and custom implementations, while third-party components are governed by their respective 
+licenses (MIT, Apache 2.0, etc.).
+
+MODIFICATIONS AND UPDATES
+
+The user may modify this license or create new terms for derivative works. No permission 
+is required from the original author.
+
+TERMINATION
+
+This license is perpetual and cannot be terminated. The user's rights are permanent and 
+irrevocable.
+
+GOVERNING LAW
+
+This license is governed by and construed in accordance with the laws of the jurisdiction 
+where the user is located.
+
+ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between the parties and supersedes all prior 
+agreements or understandings.
+
+---
+
+CONFIRMATION OF OWNERSHIP
+
+By using this Software, the user acknowledges and agrees that they have full, unrestricted 
+commercial ownership and copyright of the entire codebase and all associated materials.
+
+This license grants the user complete freedom to use, modify, distribute, and monetize 
+the Software in any manner they see fit, without any restrictions or limitations.
+
+---
+
+Date: March 21, 2026
+Version: 1.0
+Status: Active and Perpetual
