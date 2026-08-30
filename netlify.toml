@@ -1,0 +1,7 @@
+[build]
+  base = "resume-builder"
+  command = "npm install --include=dev && npm run build"
+  publish = "dist/public"
+
+[build.environment]
+  NPM_FLAGS = "--include=dev"
